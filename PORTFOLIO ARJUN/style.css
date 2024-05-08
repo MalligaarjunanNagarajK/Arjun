@@ -1,0 +1,11 @@
+*{
+   background-color: rgb(202, 239, 248); 
+   color: rgb(25, 25, 26);
+}
+.home{
+    text-align: center;
+    border: .5rem solid rgb(5, 151, 209);
+    width: 100vw;
+    cursor:pointer;
+    font-style: oblique;
+}
